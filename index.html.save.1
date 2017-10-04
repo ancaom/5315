@@ -1,0 +1,6 @@
+git add .
+git commit -m "index file"
+git push origin master
+docker run --name nginx -p 80:80 -d -v ~/web/5315:/usr/share/nginx/html nginx
+docker ps
+
