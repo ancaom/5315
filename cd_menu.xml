@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+	<CD>
+		<Name>Spring rolls</Name>
+		<Category>Appertiser</Category>
+		<Type>Vietnamese</Type>
+	</CD>
+	<CD>
+		<Name>Crispy rolls</Name>
+		<Category>Appertiser</Category>
+		<Type>Vietnamese</Type>
+	</CD>
+	<CD>
+		<Name>Chicken Lasagna</Name>
+		<Category>Entrees</Category>
+		<Type>Italian</Type>
+	</CD>
+	<CD>
+		<Name>Crab Cake</Name>
+		<Category>Appertiser</Category>
+		<Type>American</Type>
+	</CD>
+	<CD>
+		<Name>Steak Taco</Name>
+		<Category>Entrees</Category>
+		<Type>Mexican</Type>
+	</CD>
+	<CD>
+		<Name>Caramel Flan Cake</Name>
+		<Category>Dessert</Category>
+		<Type>Vietnamese</Type>
+	</CD>
+	<CD>
+		<Name>Pho Hanoi</Name>
+		<Category>Entrees</Category>
+		<Type>Vietnamese</Type>
+	</CD>
+	<CD>
+		<Name>Duck Salad</Name>
+		<Category>Appertiser</Category>
+		<Type>Vietnamese</Type>
+	</CD>
+	<CD>
+		<Name>Shrimp Scampi</Name>
+		<Category>Entrees</Category>
+		<Type>Italian</Type>
+	</CD>
+	<CD>
+		<Name>Fried Banana with Ice Cream</Name>
+		<Category>Dessert</Category>
+		<Type>Vietnamese</Type>
+	</CD>
+</Menu>
